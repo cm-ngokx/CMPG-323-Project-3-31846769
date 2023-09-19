@@ -1,5 +1,8 @@
 # CMPG-323-Project-3-31846769
 # MVC Web Application
+In this project, we were tasked with enhancing the code by implementing best practices like the repository pattern and adhering to SOLID principles. 
+We achieved this by integrating a database on Azure, and the resulting web application was posted on the Azure. 
+These improvements were made using Visual Studio with an ASP.NET MVC web application.
 
 ## How to use the app:
 Web App link: https://cmpg323project3repositorypartten.azurewebsites.net
