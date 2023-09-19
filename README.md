@@ -4,12 +4,14 @@
 ## How to use the app:
 Web App link: https://cmpg323project3repositorypartten.azurewebsites.net
 * click on the link above
-* use the following Login credintials: email: Ben10@gmail.com password:#Ben10
+  
+### Home page:
+  ![home page](https://github.com/cm-ngokx/CMPG-323-Project-3-31846769/assets/127525159/5516d71f-2088-42b0-9beb-d07686bc417a)
+  
+* use the following Login credintials: email: Ben10@gmail.com password:#Ben10 to login
+* you can now explore all the customers, orders and products tabs on top
 * 
-
-
-
-
+  
 ## References:
 Freeman, A., & Sanderson, S. (2016). Pro ASP.NET MVC 5. Apress.
 
