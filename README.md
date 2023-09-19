@@ -11,6 +11,12 @@ Web App link: https://cmpg323project3repositorypartten.azurewebsites.net
 * Please utilize the provided login information: email: Ben10@gmail.com password:#Ben10 to login
 
 ### Login page:
+![Login page](https://github.com/cm-ngokx/CMPG-323-Project-3-31846769/assets/127525159/427f6d51-c043-48ce-912e-2a355d6370e5)
+
+### Registering Page:
+*If you wish to sign up, there is a registration page available where you can input your credentials and log in afterward.
+![Registering Page](https://github.com/cm-ngokx/CMPG-323-Project-3-31846769/assets/127525159/1dcf2847-8df8-48b1-b869-35c6d7876802)
+
 
 * Once logged in, you will have access to various tabs at the top, including customers, orders, and products.
 * From there, you can perform actions such as creating, editing, requesting details, or deleting customers, orders, and products.
