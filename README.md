@@ -10,7 +10,7 @@ Web App link: https://cmpg323project3repositorypartten.azurewebsites.net
   
 * use the following Login credintials: email: Ben10@gmail.com password:#Ben10 to login
 * you can now explore all the customers, orders and products tabs on top
-* 
+  you can create new, edit, requirest for details, or delete customers, orders and products.
   
 ## References:
 Freeman, A., & Sanderson, S. (2016). Pro ASP.NET MVC 5. Apress.
