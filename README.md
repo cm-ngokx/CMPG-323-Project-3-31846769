@@ -9,8 +9,14 @@ Web App link: https://cmpg323project3repositorypartten.azurewebsites.net
   ![home page](https://github.com/cm-ngokx/CMPG-323-Project-3-31846769/assets/127525159/5516d71f-2088-42b0-9beb-d07686bc417a)
   
 * Please utilize the provided login information: email: Ben10@gmail.com password:#Ben10 to login
+
+### Login page:
+
 * Once logged in, you will have access to various tabs at the top, including customers, orders, and products.
 * From there, you can perform actions such as creating, editing, requesting details, or deleting customers, orders, and products.
+
+## Security
+To ensure that no credentials are exposed, a .gitignore file was used. 
   
 ## References:
 Freeman, A., & Sanderson, S. (2016). Pro ASP.NET MVC 5. Apress.
